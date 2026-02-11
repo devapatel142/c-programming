@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 int main() {
    int tea,candy;
    printf("enter the amount party of tea and candy.\n");
@@ -18,3 +17,4 @@ else{
     return 0;
 
 }
+
